@@ -4,5 +4,5 @@ project(Szyfry)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Szyfry main.cpp
-        cezar.cpp
-        cezar.h)
+        2025_zad2.cpp
+)
